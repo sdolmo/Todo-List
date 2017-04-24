@@ -1,5 +1,3 @@
 == Todo List
 
-A web applications that allows users to make a todo list in order to plan their day
-
-[Live Demo](https://whattodoplanner.herokuapp.com/todo_lists)
+A web applications that allows users to make todo lists in order to plan their daily tasks. Check out the live demo here[https://whattodoplanner.herokuapp.com/todo_lists].
